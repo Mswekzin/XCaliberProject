@@ -1,0 +1,16 @@
+C:\Users\Lindani Mabaso\source\repos\DBConvertXML\DBConvertXML\obj\Debug\MainWindow.g.cs
+C:\Users\Lindani Mabaso\source\repos\DBConvertXML\DBConvertXML\obj\Debug\App.g.cs
+C:\Users\Lindani Mabaso\source\repos\DBConvertXML\DBConvertXML\obj\Debug\DBConvertXML_MarkupCompile.cache
+C:\Users\Lindani Mabaso\source\repos\DBConvertXML\DBConvertXML\obj\Debug\DBConvertXML_MarkupCompile.lref
+C:\Users\Lindani Mabaso\source\repos\DBConvertXML\DBConvertXML\bin\Debug\DBConvertXML.exe.config
+C:\Users\Lindani Mabaso\source\repos\DBConvertXML\DBConvertXML\bin\Debug\DBConvertXML.exe
+C:\Users\Lindani Mabaso\source\repos\DBConvertXML\DBConvertXML\bin\Debug\DBConvertXML.pdb
+C:\Users\Lindani Mabaso\source\repos\DBConvertXML\DBConvertXML\obj\Debug\MainWindow.baml
+C:\Users\Lindani Mabaso\source\repos\DBConvertXML\DBConvertXML\obj\Debug\DBConvertXML.g.resources
+C:\Users\Lindani Mabaso\source\repos\DBConvertXML\DBConvertXML\obj\Debug\WindowsApplication1.InsertXMLdata.resources
+C:\Users\Lindani Mabaso\source\repos\DBConvertXML\DBConvertXML\obj\Debug\DBConvertXML.Properties.Resources.resources
+C:\Users\Lindani Mabaso\source\repos\DBConvertXML\DBConvertXML\obj\Debug\DBConvertXML.csproj.GenerateResource.cache
+C:\Users\Lindani Mabaso\source\repos\DBConvertXML\DBConvertXML\obj\Debug\DBConvertXML.csproj.CoreCompileInputs.cache
+C:\Users\Lindani Mabaso\source\repos\DBConvertXML\DBConvertXML\obj\Debug\DBConvertXML.exe
+C:\Users\Lindani Mabaso\source\repos\DBConvertXML\DBConvertXML\obj\Debug\DBConvertXML.pdb
+C:\Users\Lindani Mabaso\source\repos\DBConvertXML\DBConvertXML\obj\Debug\DBConvertXML.csprojAssemblyReference.cache
