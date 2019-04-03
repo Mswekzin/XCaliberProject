@@ -27,7 +27,7 @@ namespace XCalibreMP
         {
             InitializeComponent();
         }
-
+//Saving the data on xml file on the specific chosen location 
         private void SaveBtn_Click(object sender, RoutedEventArgs e)
         {
             try
@@ -35,21 +35,17 @@ namespace XCalibreMP
                 SaveFileDialog fileToSave = new SaveFileDialog();
 
                 String paths = "";
-                
-              
+                  
                 if (fileToSave.ShowDialog()==true)
-                {
-                     
+                {     
                     paths=Path.GetFullPath(fileToSave.FileName);
-                   
-                }
+                 }
                 String[] s = paths.Split('\\');
                 String sw = "";
                 foreach(var item in s)
                 {
                     sw += item + "/";
                 }
-
                 sw = sw.Remove(sw.Length - 1);
                 information info = new information();
                 info.StudentName = Name_txtb.Text;
@@ -65,6 +61,7 @@ namespace XCalibreMP
             }
         }
 
+//Clearing all the textboxes after inserting and saving the data
         private void ResetBtn_Click(object sender, RoutedEventArgs e)
         {
             Name_txtb.Text = "";
