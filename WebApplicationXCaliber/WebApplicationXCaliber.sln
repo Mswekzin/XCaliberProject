@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.271
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplicationXCaliber", "WebApplicationXCaliber\WebApplicationXCaliber.csproj", "{0BF7F0C3-8673-4429-862E-F86C0A9B561D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0BF7F0C3-8673-4429-862E-F86C0A9B561D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0BF7F0C3-8673-4429-862E-F86C0A9B561D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0BF7F0C3-8673-4429-862E-F86C0A9B561D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0BF7F0C3-8673-4429-862E-F86C0A9B561D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A069C57C-A42F-41D2-A9C3-6538B6458DCC}
+	EndGlobalSection
+EndGlobal
