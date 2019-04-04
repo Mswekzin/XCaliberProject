@@ -6,7 +6,7 @@ ClubName varchar(25) Not Null,
 CREATE TABLE Athlete (
 AthleteID int IDENTITY(1,1) NOT NULL PRIMARY KEY,
 AthleteName varchar(15) NOT NULL,
-  AthleticsClubID int IDENTITY(1,1),
+AthleticsClubID int IDENTITY(1,1),
 AthleteDOB Date,
 CONSTRAINT AthleticsClubs_FK1 FOREIGN KEY (AthleticsClubID) REFERENCES AthleticsClubs(AthleticsClubID)
 );
