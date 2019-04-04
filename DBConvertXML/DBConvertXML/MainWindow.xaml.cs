@@ -46,11 +46,11 @@ namespace DBConvertXML
             String Profession = null;
             String Customer_FK = "0";
 
-            connetionString = "Data Source=LINDANIMABASO\\LINDANIDB;Initial Catalog=LocalDB;Integrated Security=True";
+            connetionString = "Data Source=THULANIMSWELI\\THULANIDB;Initial Catalog=LocalDB;Integrated Security=True";
 
             connection = new SqlConnection(connetionString);
 
-            xmlFile = XmlReader.Create("C:/Users/Lindani Mabaso/source/repos/DBConvertXML/DBConvertXML/Customer_Sale.xml", new XmlReaderSettings());
+            xmlFile = XmlReader.Create("C:/Users/Thulani Msweli/source/repos/DBConvertXML/DBConvertXML/Customer_Sale.xml", new XmlReaderSettings());
             ds.ReadXml(xmlFile);
             int i = 0;
             connection.Open();
